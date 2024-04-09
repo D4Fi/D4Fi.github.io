@@ -1,0 +1,64 @@
+#logo-j{
+	font-size: 200px;
+	color: blue;
+
+}
+
+#logo-computer{
+	font-size: 90px;
+}
+
+#logo-informatica{
+	font-size: 50px;
+	margin-left: 140px;
+}
+
+.intro--banner{
+	background-image: url("../img/fundogif.gif");
+}
+
+.imagemone{
+	width: 100px;
+	height: 100px;
+	background-image: url("../img/memoriaram.webp");
+	border: 10px solid blue;
+	margin: 5px;
+	z-index: 1;
+	background-size: cover;
+  background-position: center;
+}
+
+
+.imagpeca{
+	width: 100px;
+	height: 100px;
+	background-image: url("../img/pecacolorida.webp");
+	border: 10px solid blue;
+	z-index: 1;
+	background-size: cover;
+  background-position: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
